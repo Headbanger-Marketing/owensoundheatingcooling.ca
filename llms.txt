@@ -1,0 +1,24 @@
+# Owen Sound Heating & Cooling
+
+> Owen Sound Heating & Cooling is a local HVAC company serving Owen Sound, Grey County, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (519) 376-0188  |  Email: contact@owensoundheatingcooling.ca  |  Website: https://owensoundheatingcooling.ca
+
+## Key pages
+
+- [Home](https://owensoundheatingcooling.ca/): Owen Sound Heating & Cooling homepage with service overview and FAQ
+- [About](https://owensoundheatingcooling.ca/about/): About the company and service area
+- [Contact](https://owensoundheatingcooling.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Furnace Repair](https://owensoundheatingcooling.ca/services/furnace-repair/): Furnace Repair in Owen Sound, Ontario
+- [AC Repair](https://owensoundheatingcooling.ca/services/ac-repair/): AC Repair in Owen Sound, Ontario
+- [Ductless AC Installation](https://owensoundheatingcooling.ca/services/ductless-ac-installation/): Ductless AC Installation in Owen Sound, Ontario
+- [Heat Pump Repair & Installation](https://owensoundheatingcooling.ca/services/heat-pump-repair-installation/): Heat Pump Repair & Installation in Owen Sound, Ontario
+- [Thermostat Repair & Replacement](https://owensoundheatingcooling.ca/services/thermostat-repair-replacement/): Thermostat Repair & Replacement in Owen Sound, Ontario
+- [Duct Cleaning](https://owensoundheatingcooling.ca/services/duct-cleaning/): Duct Cleaning in Owen Sound, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Owen Sound are answered on the homepage.
